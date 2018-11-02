@@ -1,0 +1,36 @@
+.image.avatar img {
+    border-radius: 0;
+}
+/*.major strong {font-weight: 700;}*/
+.major h2 {font-size: 3em !important; margin-bottom: 40px;}
+#two h2 {margin-bottom: 20px;}
+a.read-more {
+    background: #4E5A30;
+    color: white;
+    padding: 10px 20px;
+    font-size: 0.8em;
+}
+.work-item p {margin-bottom: 20px;}
+.work-item a {border-bottom: none;}
+img.initiative.featured-image {
+    width: 100%;
+    border-radius: 0.35em;
+}
+ul.initiative-social-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    clear: both;
+}
+li.initiative-social {
+    padding: 0;
+    font-size: 25px;
+    float: left;
+    margin-right: 10px;
+}
+p.mission {
+    clear: left;
+    padding-top: 20px !important;
+}
+a {color: #999;}
+a:hover {color: #4E5A30 !important;}

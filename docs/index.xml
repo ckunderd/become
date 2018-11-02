@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Become | Starting and Sustaining Initiatives that Grow God&#39;s Kingdom.</title>
+    <link>https://youwillbecome.org/</link>
+    <description>Recent content on Become | Starting and Sustaining Initiatives that Grow God&#39;s Kingdom.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 01 Nov 2018 17:51:48 -0400</lastBuildDate>
+    
+	<atom:link href="https://youwillbecome.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Slam</title>
+      <link>https://youwillbecome.org/initiatives/slam/</link>
+      <pubDate>Thu, 01 Nov 2018 17:51:48 -0400</pubDate>
+      
+      <guid>https://youwillbecome.org/initiatives/slam/</guid>
+      <description>Overview SLAM is a Metro Detroit artist collective united by a common dream to end prejudice in our region. The chief goal of SLAM is to invite people into lifelong, cross-cultural friendships.</description>
+    </item>
+    
+    <item>
+      <title>Kingdom Sea</title>
+      <link>https://youwillbecome.org/initiatives/kingdomsea/</link>
+      <pubDate>Thu, 01 Nov 2018 17:49:22 -0400</pubDate>
+      
+      <guid>https://youwillbecome.org/initiatives/kingdomsea/</guid>
+      <description>Overview Founded in 2018, Kingdom Sea aims to help introduce people to Jesus by praying for them, connecting in friendship, sharing life and faith, and finally empowering them to make disciples.</description>
+    </item>
+    
+    <item>
+      <title>Cultivate</title>
+      <link>https://youwillbecome.org/initiatives/cultivate/</link>
+      <pubDate>Thu, 01 Nov 2018 16:47:43 -0400</pubDate>
+      
+      <guid>https://youwillbecome.org/initiatives/cultivate/</guid>
+      <description>Overview As defined by Jesus in Luke 10, a kingdom worker is a person of Christlike character - obedient to God, ready for any challenge, action-minded, and results-oriented - whose desire is to see God’s Kingdom grow.</description>
+    </item>
+    
+    <item>
+      <title>International Oasis</title>
+      <link>https://youwillbecome.org/initiatives/internationaloasis/</link>
+      <pubDate>Wed, 10 Oct 2018 13:07:31 +0200</pubDate>
+      
+      <guid>https://youwillbecome.org/initiatives/internationaloasis/</guid>
+      <description>Overview International Oasis exists to inspire and equip international students to meet the needs of the global poor. International Oasis believes that international students hold the solutions to the problems of poverty in their home countries because international students who come to the United States are generally people with strong personal character, relational networks, and intellect who demonstrate perseverance in the face of challenges.</description>
+    </item>
+    
+    <item>
+      <title>Migrate from Jekyll</title>
+      <link>https://youwillbecome.org/post/migrate-from-jekyll/</link>
+      <pubDate>Sat, 10 Oct 2015 13:07:31 +0200</pubDate>
+      
+      <guid>https://youwillbecome.org/post/migrate-from-jekyll/</guid>
+      <description>Move static content to static Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output. Hugo keeps all static content under static.</description>
+    </item>
+    
+    <item>
+      <title>Go is for lovers</title>
+      <link>https://youwillbecome.org/post/go-is-for-lovers/</link>
+      <pubDate>Thu, 17 Sep 2015 13:47:08 +0200</pubDate>
+      
+      <guid>https://youwillbecome.org/post/go-is-for-lovers/</guid>
+      <description>Hugo uses the excellent go html/template library for its template engine. It is an extremely lightweight engine that provides a very small amount of logic.</description>
+    </item>
+    
+    <item>
+      <title>Hugo is for lovers</title>
+      <link>https://youwillbecome.org/post/hugo-is-for-lovers/</link>
+      <pubDate>Mon, 03 Aug 2015 13:39:46 +0200</pubDate>
+      
+      <guid>https://youwillbecome.org/post/hugo-is-for-lovers/</guid>
+      <description>Step 1. Install Hugo Goto hugo releases and download the appropriate version for your os and architecture.
+Save it somewhere specific as we will be using it in the next step.</description>
+    </item>
+    
+    <item>
+      <title>Creating a new theme</title>
+      <link>https://youwillbecome.org/post/creating-a-new-theme/</link>
+      <pubDate>Wed, 24 Jun 2015 13:50:46 +0200</pubDate>
+      
+      <guid>https://youwillbecome.org/post/creating-a-new-theme/</guid>
+      <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content.</description>
+    </item>
+    
+    <item>
+      <title>Give</title>
+      <link>https://youwillbecome.org/give/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://youwillbecome.org/give/</guid>
+      <description>At Become, our desire is to ensure that God&amp;rsquo;s Kingdom is growing. For us, that means identifying the best leaders we can, investing in them spiritually, organizationally, and financially, and finally launching that leader in a sustainable and healthy way for long-term impact.</description>
+    </item>
+    
+  </channel>
+</rss>

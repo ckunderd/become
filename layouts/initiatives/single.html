@@ -1,0 +1,24 @@
+{{ define "main" }}
+	<span>
+		<h1>{{ .Title }}</h1>
+        <ul class="initiative-social-list">
+        {{ with .Params.facebook }}
+        <li class="initiative-social"><a href="//facebook.com/{{ . }}" target="_blank" class="icon fa-facebook-square"><span class="label">Facebook</span></a></li>
+        {{ end }}
+        {{ with .Params.instagram }}
+        <li class="initiative-social"><a href="//instagram.com/{{ . }}" target="_blank" class="icon fa-instagram"><span class="label">Instagram</span></a></li>
+        {{ end }}
+        {{ with .Params.twitter }}
+        <li class="initiative-social"><a href="//twitter.com/{{ . }}" target="_blank" class="icon fa-twitter"><span class="label">Instagram</span></a></li>
+        {{ end }}
+        {{ with .Params.website }}
+        <li class="initiative-social"><a href="{{ . }}" target="_blank" class="icon fa-external-link-square"><span class="label">Website</span></a></li>
+        {{ end }}
+        </ul>
+	</span>
+    <p class="mission">{{ .Params.mission | markdownify }}</p>
+    <img src="{{ .Site.BaseURL }}images/initiatives/{{ .Params.featured_image }}" class="initiative featured-image" />
+	<p class="overview">
+	    {{ .Content }}
+	</p>
+{{ end }}

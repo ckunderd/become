@@ -1,3 +1,160 @@
-baseURL = "http://example.org/"
+baseurl = "https://youwillbecome.org/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Become | Starting and Sustaining Initiatives that Grow God's Kingdom."
+theme = "hugo-strata-theme"
+disqusShortname = "spf13"
+# Enable Google Analytics by inserting your tracking code
+googleAnalytics = ""
+# Define how many posts should appear on a site
+paginate = 10
+publishDir = "docs"
+summaryLength = "25"
+
+[params]
+	# To provide some metadata for search engines feel free to add a few
+    # information about you and your website.
+	name = "Your name"
+	description = "Describe your website"
+
+	# Format dates with Go's time formatting
+	date_format = "2006-01-02"
+
+	# Add read time estimates in the format "X min read"
+	show_read_time = false
+
+	# Add custom assets with their paths relative to the static folder
+	custom_js   = []
+	custom_css  = []
+    
+    summaryLength = "25"
+
+	[params.sidebar]
+		# Replace the avatar with a picture of your own under static/images
+		avatar = "become_icon_lg.png"
+		# Use Markdown to format the string. This works nearly all over the theme
+		bio = "We exist to start and sustain new initiatives **that grow God's Kingdom.**"
+		# The icons will be shown if you enter your username
+		twitter = ""
+		github = ""
+		gitlab = ""
+		dribbble = ""
+		facebook = ""
+		googleplus = ""
+		flickr = ""
+		linkedin = ""
+
+		copyright = [
+			"&copy; 2018 Become. All Rights Reserved.",
+			"[A Branch of Abide Ministries](//abide.community/become/)"
+		]
+
+
+	[params.about]
+		hide  = false
+		title = "Who is God asking you to become to grow His Kingdom?"
+		content = "At Become, we want to see God's Kingdom grow. The kingdom of God is the complete and total authority of God over all creation, most importantly humanity. This kingdom exists wherever men and women allow God to rule over their individual lives and become obedient to God’s ways as revealed through the person of Jesus Christ, who is God in flesh. We work to identify leaders with a kingdom-growing vision, invest in the leader spiritually, organizationally, and financially, and work with the leader to launch initiatives that help the Kingdom of God grow it's influence throughout creation. Our hope is to work with as many people as we can who are willing to ask who God is asking him or her to become, and see the Kingdom of God grow as a result."
+
+
+	[params.portfolio]
+		hide  = false
+		title = "Our Initiatives"
+
+		# The images and thumbnails are stored under static/images
+		# Create and change subfolders as you like
+		[[params.portfolio.gallery]]
+			image = "initiatives/internationaloasis.jpg"
+			thumb = "logo/internationaloasis.jpg"
+			title = "International Oasis"
+			description = "International Oasis exists to inspire and equip international students to meet the needs of the global poor."
+            link = "internationaloasis"
+            linktext = "Read More"
+
+		[[params.portfolio.gallery]]
+			image = "initiatives/cultivate.jpg"
+			thumb = "logo/cultivate.jpg"
+			title = "Cultivate"
+			description = "Cultivate exists to help university students become kingdom workers."
+            link = "cultivate"
+            linktext = "Read More"
+
+		[[params.portfolio.gallery]]
+			image = "initiatives/slam.jpg"
+			thumb = "logo/slam.jpg"
+			title = "SLAM"
+			description = "SLAM exists to end prejudice by developing lifelong, cross-cultural friendships within the art community."
+            link = "slam"
+            linktext = "Read More"
+
+		[[params.portfolio.gallery]]
+			image = "initiatives/kingdomsea.jpg"
+			thumb = "logo/kingdomsea.jpg"
+			title = "Kingdom Sea"
+			description = "Kingdom Sea exists to help the international community become fully devoted followers of Jesus."
+            link = "kingdomsea"
+            linktext = "Read More"
+
+	[params.recentposts]
+		hide  = false
+		title = "Recent Updates"
+
+	[params.contact]
+		hide  = false
+		title = "Contact Us"
+		content = "Are you interested in learning about our initiatives or even becoming part of our team? Contact us using the form below and we will be in touch shortly."
+
+		# This can be exact coordinates or a searchable address in google maps
+		#gmaps_address = "39.7889055,-120.5443524"
+		address = [
+			"PO Box 210997",
+			"Auburn Hills, MI",
+			"48321"
+		]
+		phone = "248-629-0663"
+
+		# Since this template is static, the contact form uses www.formspree.io as a
+		# proxy. The form makes a POST request to their servers to send the actual
+		# email. Visitors can send up to a 1000 emails each month for free.
+	    #
+	    # What you need to do for the setup?
+	    #
+	    # - set your email address under 'email' below
+	    # - upload the generated site to your server
+	    # - send a dummy email yourself to confirm your account
+	    # - click the confirm link in the email from www.formspree.io
+	    # - you're done. Happy mailing!
+		email = "info@youwillbecome.org"
+
+		[params.contact.form]
+			# Set custom strings for the form if your native
+			# language isn't English
+			name = "Name"
+			email = "Email"
+			message = "Message"
+			submit = "Send message"
+
+
+# Menu links that appear on the left sidebar
+[[menu.main]]
+	name = "Home"
+	url  = "/"
+	weight = 1
+
+[[menu.main]]
+	name = "Updates"
+	url  = "post/"
+	weight = 7
+    
+[[menu.main]]
+	name = "Initiatives"
+	url  = "initiatives/"
+	weight = 5
+    
+[[menu.main]]
+	name = "Give"
+	url  = "give/"
+	weight = 9
+    
+[[menu.main]]
+	name = "Contact"
+	url  = "https://youwillbecome.org/#contact-form"
+	weight = 11

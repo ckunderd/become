@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ipsum on Become | Starting and Sustaining Initiatives that Grow God&#39;s Kingdom.</title>
+    <link>https://youwillbecome.org/categories/ipsum/</link>
+    <description>Recent content in Ipsum on Become | Starting and Sustaining Initiatives that Grow God&#39;s Kingdom.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 17 Sep 2015 13:47:08 +0200</lastBuildDate>
+    
+	<atom:link href="https://youwillbecome.org/categories/ipsum/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Go is for lovers</title>
+      <link>https://youwillbecome.org/post/go-is-for-lovers/</link>
+      <pubDate>Thu, 17 Sep 2015 13:47:08 +0200</pubDate>
+      
+      <guid>https://youwillbecome.org/post/go-is-for-lovers/</guid>
+      <description>Hugo uses the excellent go html/template library for its template engine. It is an extremely lightweight engine that provides a very small amount of logic.</description>
+    </item>
+    
+  </channel>
+</rss>

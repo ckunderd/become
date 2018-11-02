@@ -1,0 +1,23 @@
+{{ define "main" }}
+	<span>
+		<h1>{{ .Params.pagetitle }}</h1>
+	</span>
+<p class="giving">
+	    {{ .Content }}
+	</p>
+<h2>Make a Gift</h2>
+<div class="row">
+    <article class="6u 12u$(xsmall)">
+        <p>Become receives donations as part of <a href="https://abide.community" target="_blank">Abide Ministries</a>, a 501(c)(3) organization located in Rochester, MI that provides financial and organizational oversight. All donations made to Become are tax-deductible through Abide Ministries. Abide partners with Donorbox to enable donors to make one time and recurring donations, while allowing them to manage their own giving in a safe, secure, and reliable environment.</p>
+        <h4>Online Gifts</h4>
+        <p>Online gifts can be made using the form on this page, or at <a href="https://donorbox.org/become" target="_blank">https://donorbox.org/become.</a> You can make one-time or recurring gifts using credit cards, debit cards, or bank transfers. All transactions are processed through Donorbox (a Stripe partner) for the highest level of security and convenience. Once you make a gift, you can manage your gift at <a href="https://donorbox.org/user_session/new" target="_blank">www.donorbox.org.</a></p>
+        <h4>Check Gifts</h4>
+        <p>Check gifts can be made out to:</p>
+        <p>Abide Ministries<br>323 Linwood Dr<br>Rochester, MI 48307</p>
+        <p>Please add “Become” to the memo line of all check gifts. For any questions regarding giving, please email <a href="mailto:cam@youwillbecome.org">cam@youwillbecome.org</a>.</p>
+    </article>
+    <article class="6u 12u$(xsmall)">
+    <script src="https://donorbox.org/widget.js" paypalExpress="false"></script><iframe src="https://donorbox.org/embed/become?default_interval=m" height="685px" width="100%" style="max-width:5000px; min-width:310px; max-height:none!important" seamless="seamless" name="donorbox" frameborder="0" scrolling="no" allowpaymentrequest></iframe>
+    </article>
+</div>
+{{ end }}
