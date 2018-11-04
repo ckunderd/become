@@ -12,7 +12,7 @@ a.read-more {
 }
 .work-item p {margin-bottom: 20px;}
 .work-item a {border-bottom: none;}
-img.initiative.featured-image {
+img.initiative.featured-image, img.post.featured {
     width: 100%;
     border-radius: 0.35em;
 }

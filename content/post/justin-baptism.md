@@ -1,0 +1,20 @@
++++
+title = "A beautiful baptism for a dear friend."
+banner = ""
+featured_image = ""
+categories = ["Cultivate"]
+date = "2017-08-25T06:12:23-05:00"
+menu = ""
+tags = ["Baptism"]
+type = "post"
+author = "Cam Underdown"
++++
+
+On August 14, 2017, I was privileged to baptize my friend Justin. Justin and I have known each other since the fall of 2014; it was our friendship that helped to launch International Oasis. Surrounded by about twenty of his closest friends, Justin professed his faith in Jesus publicly after a three year journey of getting to know Jesus after growing up with no religious background in China. Here are the words he shared at his baptism about why he wanted to be baptized, taken exactly from what he sent to me. There was no coaching involved - just a powerful move of the Holy Spirit as he shared his heart, which is especially amazing to me because he knew little English when he arrived in 2014. When someone wants to be baptized, I send them what Justin wrote as an idea of what he or she could share at the ceremony.
+
+### Justin's Baptism Statement
+
+>I used to tell me that I am still too young to give my life to God, I can fight and I hope I am in control of everything in my life. However, the more I know about god, the more I know about my limitation and how important God is to my life. We are trying to understand the world, but the knowledge that we have is limited. We are trying to live in the world, but the ability we have is limited. We are trying to help the world, but the influence we have is again limited. The so-called wisdom lead us to almost nowhere, while the sin comes hand in hand with our wisdom is everywhere. Now I believe Jesus is the hope, and the hope is the strength and redemption.\\
+Idealism and materialism are two extreme styles of life that people live with. Personally, I think I need both part of them, and I am trying to pick up the most important words for each of them. For the internal life, I will say hope and self-satisfaction; and for external life, I think it will be love and relationship. Then I finally realize that Jesus is the answer for everything. When we have Jesus, we have hope. When we glorified our father, we also feel satisfied about ourselves. And for the external life, when talking about the relationship, no doubts that Jesus is the source and origin of the unconditional love. Now I understand it more when Jesus says, “I am the way, the truth and the life”. (John 14:6)\\
+I still remember it when the first time Tom asked me the four big things in the world – Origin, destiny, morality, and purpose. I have been thinking more about it, taking journals, discussing with my friends. Now I begin to accept that Jesus is the answer. If God created the world, and if he just let the world functioning by itself, then why are we so special to know our sins, why are we sharing a similar standards about morality, why are we keeping asking something from inside of our mind for meaning and purpose of life. God sent his beloved son as the format of a human being, and he is able to communicate with our mind because the holy spirit came from the same source. We are accepting it, sharing it, and it becomes our hope and strength. \\
+Thanks to the man-up retreat, the church, the song of the holy spirit, thanks to the bible discussions, the word either in Bible or from all of my friends, thanks to everything happening in my life. The more I know Jesus, the more I know me and things happening around me. Recently, I strongly feel that Jesus is using every voice from my best friends to tell me that it is the time to level-up of our relationship. And think baptism is just like the format of a wedding, I hope all my friends, especially for those who have super important influence on me, can be the witness and my testimony.

@@ -2,9 +2,9 @@ baseurl = "https://youwillbecome.org/"
 languageCode = "en-us"
 title = "Become | Starting and Sustaining Initiatives that Grow God's Kingdom."
 theme = "hugo-strata-theme"
-disqusShortname = "spf13"
+disqusShortname = "youwillbecome"
 # Enable Google Analytics by inserting your tracking code
-googleAnalytics = ""
+googleAnalytics = "UA-128625038-1"
 # Define how many posts should appear on a site
 paginate = 10
 publishDir = "docs"
@@ -134,10 +134,6 @@ summaryLength = "25"
 
 
 # Menu links that appear on the left sidebar
-[[menu.main]]
-	name = "Home"
-	url  = "/"
-	weight = 1
 
 [[menu.main]]
 	name = "Updates"

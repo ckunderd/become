@@ -17,7 +17,7 @@
       <pubDate>Thu, 01 Nov 2018 17:51:48 -0400</pubDate>
       
       <guid>https://youwillbecome.org/initiatives/slam/</guid>
-      <description>Overview SLAM is a Metro Detroit artist collective united by a common dream to end prejudice in our region. The chief goal of SLAM is to invite people into lifelong, cross-cultural friendships.</description>
+      <description>Overview SLAM is a Metro Detroit artist collective united by a common dream to end prejudice in our region. The chief goal of SLAM is to invite people into lifelong, cross-cultural friendships. These kind of friendships serve to destroy prejudice based on contact theory - which is simply that the more time someone spends in close relationship to someone, the more likely they are to develop intimacy, even in the face of major personal, ideological, and historical differences.</description>
     </item>
     
     <item>
@@ -26,7 +26,7 @@
       <pubDate>Thu, 01 Nov 2018 17:49:22 -0400</pubDate>
       
       <guid>https://youwillbecome.org/initiatives/kingdomsea/</guid>
-      <description>Overview Founded in 2018, Kingdom Sea aims to help introduce people to Jesus by praying for them, connecting in friendship, sharing life and faith, and finally empowering them to make disciples.</description>
+      <description>Overview Founded in 2018, Kingdom Sea aims to help introduce people to Jesus by praying for them, connecting in friendship, sharing life and faith, and finally empowering them to make disciples. Weekly prayer meetings help a dedicated group of volunteers continue to put the names and needs of the international community before God. Volunteers then connect with students through discussion groups, intentional events, and one-on-one interactions. When the time is right, volunteers can share the faith they have in Jesus with their international friends in a way that is contextualized and authentic, taking into account a person’s family, faith, and cultural background.</description>
     </item>
     
     <item>
@@ -35,7 +35,7 @@
       <pubDate>Thu, 01 Nov 2018 16:47:43 -0400</pubDate>
       
       <guid>https://youwillbecome.org/initiatives/cultivate/</guid>
-      <description>Overview As defined by Jesus in Luke 10, a kingdom worker is a person of Christlike character - obedient to God, ready for any challenge, action-minded, and results-oriented - whose desire is to see God’s Kingdom grow.</description>
+      <description>Overview As defined by Jesus in Luke 10, a kingdom worker is a person of Christlike character - obedient to God, ready for any challenge, action-minded, and results-oriented - whose desire is to see God’s Kingdom grow. University students who enter into Cultivate’s servant leader development process are asked to attend regular classes, meet one-on-one with a spiritual mentor on a weekly basis, actively attend a local church, and serve within an existing outreach ministry on their campus such as Intervarsity, CRU, YoungLife, FCA, or others.</description>
     </item>
     
     <item>
@@ -44,44 +44,34 @@
       <pubDate>Wed, 10 Oct 2018 13:07:31 +0200</pubDate>
       
       <guid>https://youwillbecome.org/initiatives/internationaloasis/</guid>
-      <description>Overview International Oasis exists to inspire and equip international students to meet the needs of the global poor. International Oasis believes that international students hold the solutions to the problems of poverty in their home countries because international students who come to the United States are generally people with strong personal character, relational networks, and intellect who demonstrate perseverance in the face of challenges.</description>
+      <description>Overview International Oasis exists to inspire and equip international students to meet the needs of the global poor. International Oasis believes that international students hold the solutions to the problems of poverty in their home countries because international students who come to the United States are generally people with strong personal character, relational networks, and intellect who demonstrate perseverance in the face of challenges. The staff and volunteers of International Oasis work to meet the immediate needs of international students, such as providing free furniture, transportation, language practice, and availability to students as international students arrive in the United States and experience poverty.</description>
     </item>
     
     <item>
-      <title>Migrate from Jekyll</title>
-      <link>https://youwillbecome.org/post/migrate-from-jekyll/</link>
-      <pubDate>Sat, 10 Oct 2015 13:07:31 +0200</pubDate>
+      <title>2018 YoungLife Retreat: A Celebration.</title>
+      <link>https://youwillbecome.org/post/younglife-retreat-2018/</link>
+      <pubDate>Fri, 30 Mar 2018 08:16:24 -0500</pubDate>
       
-      <guid>https://youwillbecome.org/post/migrate-from-jekyll/</guid>
-      <description>Move static content to static Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output. Hugo keeps all static content under static.</description>
+      <guid>https://youwillbecome.org/post/younglife-retreat-2018/</guid>
+      <description>In February of 2017, I was asked by YoungLife at Oakland University to speak at their Spring Retreat. I agreed to speak on one condition: that the student leader tell me where YoungLife wanted to be a year from now in terms of its overall mission and reach to the campus. The student leader looked at me puzzled. I told him when he could answer the question, I would be happy to speak, because then I could plan my talks around around helping their organization grow God&amp;rsquo;s Kingdom.</description>
     </item>
     
     <item>
-      <title>Go is for lovers</title>
-      <link>https://youwillbecome.org/post/go-is-for-lovers/</link>
-      <pubDate>Thu, 17 Sep 2015 13:47:08 +0200</pubDate>
+      <title>Do something no one else is doing.</title>
+      <link>https://youwillbecome.org/post/scouching-2018/</link>
+      <pubDate>Fri, 09 Feb 2018 07:40:00 -0500</pubDate>
       
-      <guid>https://youwillbecome.org/post/go-is-for-lovers/</guid>
-      <description>Hugo uses the excellent go html/template library for its template engine. It is an extremely lightweight engine that provides a very small amount of logic.</description>
+      <guid>https://youwillbecome.org/post/scouching-2018/</guid>
+      <description>When coaching a leader who wants to grow God&amp;rsquo;s Kingdom, I often encourage him or her to have a signature event or strategy that is unique in his or her context. To have one or two occasions a year that an entire team can rally around helps build momentum and benchmarks into an initiative. I love looking back at certain events or strategies as a way to gauge growth personally, professionally, and as a team.</description>
     </item>
     
     <item>
-      <title>Hugo is for lovers</title>
-      <link>https://youwillbecome.org/post/hugo-is-for-lovers/</link>
-      <pubDate>Mon, 03 Aug 2015 13:39:46 +0200</pubDate>
+      <title>A beautiful baptism for a dear friend.</title>
+      <link>https://youwillbecome.org/post/justin-baptism/</link>
+      <pubDate>Fri, 25 Aug 2017 06:12:23 -0500</pubDate>
       
-      <guid>https://youwillbecome.org/post/hugo-is-for-lovers/</guid>
-      <description>Step 1. Install Hugo Goto hugo releases and download the appropriate version for your os and architecture.
-Save it somewhere specific as we will be using it in the next step.</description>
-    </item>
-    
-    <item>
-      <title>Creating a new theme</title>
-      <link>https://youwillbecome.org/post/creating-a-new-theme/</link>
-      <pubDate>Wed, 24 Jun 2015 13:50:46 +0200</pubDate>
-      
-      <guid>https://youwillbecome.org/post/creating-a-new-theme/</guid>
-      <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content.</description>
+      <guid>https://youwillbecome.org/post/justin-baptism/</guid>
+      <description>On August 14, 2017, I was privileged to baptize my friend Justin. Justin and I have known each other since the fall of 2014; it was our friendship that helped to launch International Oasis. Surrounded by about twenty of his closest friends, Justin professed his faith in Jesus publicly after a three year journey of getting to know Jesus after growing up with no religious background in China. Here are the words he shared at his baptism about why he wanted to be baptized, taken exactly from what he sent to me.</description>
     </item>
     
     <item>
@@ -90,7 +80,9 @@ Save it somewhere specific as we will be using it in the next step.</description
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://youwillbecome.org/give/</guid>
-      <description>At Become, our desire is to ensure that God&amp;rsquo;s Kingdom is growing. For us, that means identifying the best leaders we can, investing in them spiritually, organizationally, and financially, and finally launching that leader in a sustainable and healthy way for long-term impact.</description>
+      <description>At Become, our desire is to ensure that God&amp;rsquo;s Kingdom is growing. For us, that means identifying the best leaders we can, investing in them spiritually, organizationally, and financially, and finally launching that leader in a sustainable and healthy way for long-term impact.
+When you give to Become, you invest in two things:
+Capital investment in new initiatives More than 50% of the gifts that Become receives goes directly toward funding new initiatives that grow God&amp;rsquo;s Kingdom.</description>
     </item>
     
   </channel>

@@ -4,8 +4,10 @@
 
 		{{ partial "post-meta" . }}
 	</span>
-
 	<p>
+		{{ with $.Params.featured_image }}
+	<img src="{{ $.Site.BaseURL }}images/post/{{ $.Params.featured_image }}" class="post featured" />
+	{{ end }}
 	    {{ .Content }}
 	</p>
 

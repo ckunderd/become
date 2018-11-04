@@ -23,23 +23,24 @@
   </url>
   
   <url>
-    <loc>https://youwillbecome.org/post/migrate-from-jekyll/</loc>
-    <lastmod>2015-10-10T13:07:31+02:00</lastmod>
+    <loc>https://youwillbecome.org/post/younglife-retreat-2018/</loc>
+    <lastmod>2018-03-30T08:16:24-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://youwillbecome.org/post/go-is-for-lovers/</loc>
-    <lastmod>2015-09-17T13:47:08+02:00</lastmod>
+    <loc>https://youwillbecome.org/post/scouching-2018/</loc>
+    <lastmod>2018-02-09T07:40:00-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://youwillbecome.org/post/hugo-is-for-lovers/</loc>
-    <lastmod>2015-08-03T13:39:46+02:00</lastmod>
+    <loc>https://youwillbecome.org/post/justin-baptism/</loc>
+    <lastmod>2017-08-25T06:12:23-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://youwillbecome.org/post/creating-a-new-theme/</loc>
-    <lastmod>2015-06-24T13:50:46+02:00</lastmod>
+    <loc>https://youwillbecome.org/tags/baptism/</loc>
+    <lastmod>2017-08-25T06:12:23-05:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -54,6 +55,18 @@
   </url>
   
   <url>
+    <loc>https://youwillbecome.org/categories/cultivate/</loc>
+    <lastmod>2018-03-30T08:16:24-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://youwillbecome.org/tags/events/</loc>
+    <lastmod>2018-03-30T08:16:24-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://youwillbecome.org/give/</loc>
   </url>
   
@@ -64,25 +77,26 @@
   </url>
   
   <url>
-    <loc>https://youwillbecome.org/categories/ipsum/</loc>
-    <lastmod>2015-09-17T13:47:08+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://youwillbecome.org/categories/lorem/</loc>
-    <lastmod>2015-10-10T13:07:31+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://youwillbecome.org/post/</loc>
-    <lastmod>2015-10-10T13:07:31+02:00</lastmod>
+    <lastmod>2018-03-30T08:16:24-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://youwillbecome.org/tags/scouching/</loc>
+    <lastmod>2018-02-09T07:40:00-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://youwillbecome.org/tags/</loc>
+    <lastmod>2017-08-25T06:12:23-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://youwillbecome.org/tags/younglife/</loc>
+    <lastmod>2018-03-30T08:16:24-05:00</lastmod>
     <priority>0</priority>
   </url>
   
