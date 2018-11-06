@@ -3,16 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://youwillbecome.org/post/team-oakland/</loc>
-    <lastmod>2018-11-05T11:54:07-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://youwillbecome.org/post/the-spirit-of-collaboration/</loc>
-    <lastmod>2018-11-04T11:56:04-05:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://youwillbecome.org/initiatives/slam/</loc>
     <lastmod>2018-11-01T17:51:48-04:00</lastmod>
   </url>
@@ -30,6 +20,11 @@
   <url>
     <loc>https://youwillbecome.org/initiatives/internationaloasis/</loc>
     <lastmod>2018-10-10T13:07:31+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://youwillbecome.org/post/the-spirit-of-collaboration/</loc>
+    <lastmod>2018-09-19T11:56:04-05:00</lastmod>
   </url>
   
   <url>
@@ -55,7 +50,7 @@
   
   <url>
     <loc>https://youwillbecome.org/</loc>
-    <lastmod>2018-11-05T11:54:07-05:00</lastmod>
+    <lastmod>2018-11-01T17:51:48-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -66,13 +61,13 @@
   
   <url>
     <loc>https://youwillbecome.org/categories/cultivate/</loc>
-    <lastmod>2018-03-30T08:16:24-05:00</lastmod>
+    <lastmod>2018-09-19T11:56:04-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://youwillbecome.org/tags/events/</loc>
-    <lastmod>2018-03-30T08:16:24-05:00</lastmod>
+    <lastmod>2018-09-19T11:56:04-05:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -88,7 +83,7 @@
   
   <url>
     <loc>https://youwillbecome.org/post/</loc>
-    <lastmod>2018-11-05T11:54:07-05:00</lastmod>
+    <lastmod>2018-09-19T11:56:04-05:00</lastmod>
     <priority>0</priority>
   </url>
   

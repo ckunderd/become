@@ -1,6 +1,5 @@
 +++
 title = "Give"
-date = ""
 categories = []
 tags = []
 menu = ""
